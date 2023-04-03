@@ -132,7 +132,7 @@ Fix the issue by removing a redundant empty line.
 
 Fix the issue by removing empty lines before the closing curly brackets.
 
-You can go to AutoCode portal, open the task page, and click on the "Check task" button.
+You can go to the AutoCode portal, open the task page, and initiate the task checking.
 
 
 ## Roslyn Analyzers
