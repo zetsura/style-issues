@@ -6,7 +6,6 @@
         {
             int result = x + y;
 
-
             return result;
         }
     }
